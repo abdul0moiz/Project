@@ -1,0 +1,122 @@
+
+        * {
+            font-family: Arial, sans-serif;
+            color: #ffffff;
+        }
+        body {
+            background-image: url(222047.gif);
+            background-size: 1900px;
+        }
+        .periodic-table {
+            display: grid;
+            grid-template-columns: repeat(18, 60px);
+            gap: 5px;
+            padding: 20px;
+            justify-content: center;
+            margin-top: 200px;
+            margin-left: 350px;
+            position: absolute;
+            
+        }
+        .element {
+            border: 1px solid #444;
+            padding: 5px;
+            text-align: center;
+            background-color: hsl(0, 0%, 20%, 0.90);
+            border-radius: 5px;
+            font-size: 12px;
+        }
+        .element1 {
+            border: 1px solid #444;
+            padding: 5px;
+            text-align: center;
+            background-color: hsla(120, 87%, 21%, 0.90);
+            border-radius: 5px;
+            font-size: 12px;
+        }
+        .element2 {
+            border: 1px solid #444;
+            padding: 5px;
+            text-align: center;
+            background-color: hsla(27, 59%, 41%, 0.90);
+            border-radius: 5px;
+            font-size: 12px;
+        }
+        .element3 {
+            border: 1px solid #444;
+            padding: 5px;
+            text-align: center;
+            background-color: hsl(41, 96%, 36%, 0.90);
+            border-radius: 5px;
+            font-size: 12px;
+        }
+        .element4 {
+            border: 1px solid #444;
+            padding: 5px;
+            text-align: center;
+            background-color: hsl(0, 94%, 31%, 0.90);
+            border-radius: 5px;
+            font-size: 12px;
+        }
+        .element5 {
+            border: 1px solid #444;
+            padding: 5px;
+            text-align: center;
+            background-color: hsl(216, 87%, 33%, 0.90);
+            border-radius: 5px;
+            font-size: 12px;
+        }
+        .element6 {
+            border: 1px solid #444;
+            padding: 5px;
+            text-align: center;
+            background-color: hsl(165, 80%, 23%, 0.90);
+            border-radius: 5px;
+            font-size: 12px;
+        }
+        .element7 {
+            border: 1px solid #444;
+            padding: 5px;
+            text-align: center;
+            background-color: hsl(247, 31%, 35%, 0.90);
+            border-radius: 5px;
+            font-size: 12px;
+        }
+        .element8 {
+            border: 1px solid #444;
+            padding: 5px;
+            text-align: center;
+            background-color: hsl(37, 89%, 18%, 0.90);
+            border-radius: 5px;
+            font-size: 12px;
+            margin-top: 15px;
+        }
+        .element9 {
+            border: 1px solid #444;
+            padding: 5px;
+            text-align: center;
+            background-color: hsl(320, 22%, 40%, 0.90);
+            border-radius: 5px;
+            font-size: 12px;
+        }
+        img {
+            height: 110px;
+            position: absolute;
+            margin-top: 10px;
+        }
+        h1 {
+            color: black;
+            margin-left: 750px;
+            font-size: 50px;
+            margin-top: 50px;
+            position: absolute;
+        }
+        #img {
+            border-radius: 25px;
+            height: 45px;
+            margin-top: 45px;
+        }
+        #logo {
+            margin-left: 40px;
+       }
+        
